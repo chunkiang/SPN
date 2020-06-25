@@ -1,46 +1,46 @@
-class	org	drug	mic.s	mic.r
-·ÎÁ´	spn	PEN_NM	0.064	2
-·ÎÁ´	spn	"PEN_meningitis_NM, PEN_MENINGITIS_NM"	0.064	0.125
-·ÎÁ´	spn	"PEN_nonmeningitis_NM, PEN_NONMENINGITIS_NM"	2	8
-·ÎÁ´	spn	"AMC_NM, LVX_NM"	2	8
-·ÎÁ´	spn	"CRO_NM, CXM_NM, CEC_NM, MFX_NM, TCY_NM"	1	4
-·ÎÁ´	spn	CRO_meningitis_NM	0.5	2
-·ÎÁ´	spn	VAN_NM	1	0
-·ÎÁ´	spn	"ERY_NM, CLI_NM, CLR_NM, CLA_NM"	0.25	1
-·ÎÁ´	spn	"AZM_NM, CRO_meningitis_NM"	0.5	2
-·ÎÁ´	spn	SXT_NM	0.5	4
-·ÎÁ´	spn	CHL_NM	4	8
-·ÎÁ´	spn	LNZ_NM	2	0
-Á÷¸Ğ	hin	AMP_NM	1	4
-Á÷¸Ğ	hin	AMC_NM	4	8
-Á÷¸Ğ	hin	"CEC_NM, CLA_NM, CLR_NM"	8	32
-Á÷¸Ğ	hin	CXM_NM	4	16
-Á÷¸Ğ	hin	"TCY_NM, CHL_NM"	2	8
-Á÷¸Ğ	hin	SXT_NM	0.5	4
-Á÷¸Ğ	hin	"CRO_NM, LVX_NM"	2	0
-Á÷¸Ğ	hin	MFX_NM	1	0
-Á÷¸Ğ	hin	AZM_NM	4	0
-¿¨Ëû	"bca, mos"	AMC_NM	4	8
-¿¨Ëû	"bca, mos"	CXM_NM	4	16
-¿¨Ëû	"bca, mos"	"TCY_NM, CHL_NM"	2	8
-¿¨Ëû	"bca, mos"	"CLI_NM, SXT_NM"	0.5	4
-¿¨Ëû	"bca, mos"	"CRO_NM, LVX_NM"	2	0
-¿¨Ëû	"bca, mos"	"CLA_NM, CIP_NM, CLR_NM"	1	0
-¿¨Ëû	"bca, mos"	AZM_NM	0.25	0
-¿¨Ëû	"bca, mos"	CEC_NM	8	32
-½ğÆÏÂ½µË	"sau, slu"	"FOX_NM, LNZ_NM"	4	8
-½ğÆÏÂ½µË	"sau, slu"	PEN_NM	0.125	0.25
-½ğÆÏÂ½µË	"sau, slu"	"OXA_NM, SXT_NM"	2	4
-½ğÆÏÂ½µË	"sau, slu"	VAN_NM	2	16
-½ğÆÏÂ½µË	"sau, slu"	DAP_NM	1	0
-½ğÆÏÂ½µË	"sau, slu"	"TEC_NM, CHL_NM"	8	32
-½ğÆÏÂ½µË	"sau, slu"	"GEN_NM, TCY_NM, MNO_NM, MIN_NM"	4	16
-½ğÆÏÂ½µË	"sau, slu"	AMK_NM	16	64
-½ğÆÏÂ½µË	"sau, slu"	"CLA_NM, AZM_NM, CLR_NM"	2	8
-½ğÆÏÂ½µË	"sau, slu"	ERY_NM	0.5	8
-½ğÆÏÂ½µË	"sau, slu"	"LVX_NM, CIP_NM, RIF_NM"	1	4
-½ğÆÏÂ½µË	"sau, slu"	MFX_NM	0.5	2
-½ğÆÏÂ½µË	"sau, slu"	CLI_NM	0.5	4
+class_remote	org	drug	mic.s	mic.r
+è‚ºé“¾	spn	PEN_NM	0.064	2
+è‚ºé“¾	spn	"PEN_meningitis_NM, PEN_MENINGITIS_NM"	0.064	0.125
+è‚ºé“¾	spn	"PEN_nonmeningitis_NM, PEN_NONMENINGITIS_NM"	2	8
+è‚ºé“¾	spn	"AMC_NM, LVX_NM"	2	8
+è‚ºé“¾	spn	"CRO_NM, CXM_NM, CEC_NM, MFX_NM, TCY_NM"	1	4
+è‚ºé“¾	spn	CRO_meningitis_NM	0.5	2
+è‚ºé“¾	spn	VAN_NM	1	0
+è‚ºé“¾	spn	"ERY_NM, CLI_NM, CLR_NM, CLA_NM"	0.25	1
+è‚ºé“¾	spn	"AZM_NM, CRO_meningitis_NM"	0.5	2
+è‚ºé“¾	spn	SXT_NM	0.5	4
+è‚ºé“¾	spn	CHL_NM	4	8
+è‚ºé“¾	spn	LNZ_NM	2	0
+æµæ„Ÿ	hin	AMP_NM	1	4
+æµæ„Ÿ	hin	AMC_NM	4	8
+æµæ„Ÿ	hin	"CEC_NM, CLA_NM, CLR_NM"	8	32
+æµæ„Ÿ	hin	CXM_NM	4	16
+æµæ„Ÿ	hin	"TCY_NM, CHL_NM"	2	8
+æµæ„Ÿ	hin	SXT_NM	0.5	4
+æµæ„Ÿ	hin	"CRO_NM, LVX_NM"	2	0
+æµæ„Ÿ	hin	MFX_NM	1	0
+æµæ„Ÿ	hin	AZM_NM	4	0
+å¡ä»–	"bca, mos"	AMC_NM	4	8
+å¡ä»–	"bca, mos"	CXM_NM	4	16
+å¡ä»–	"bca, mos"	"TCY_NM, CHL_NM"	2	8
+å¡ä»–	"bca, mos"	"CLI_NM, SXT_NM"	0.5	4
+å¡ä»–	"bca, mos"	"CRO_NM, LVX_NM"	2	0
+å¡ä»–	"bca, mos"	"CLA_NM, CIP_NM, CLR_NM"	1	0
+å¡ä»–	"bca, mos"	AZM_NM	0.25	0
+å¡ä»–	"bca, mos"	CEC_NM	8	32
+é‡‘è‘¡é™†é‚“	"sau, slu"	"FOX_NM, LNZ_NM"	4	8
+é‡‘è‘¡é™†é‚“	"sau, slu"	PEN_NM	0.125	0.25
+é‡‘è‘¡é™†é‚“	"sau, slu"	"OXA_NM, SXT_NM"	2	4
+é‡‘è‘¡é™†é‚“	"sau, slu"	VAN_NM	2	16
+é‡‘è‘¡é™†é‚“	"sau, slu"	DAP_NM	1	0
+é‡‘è‘¡é™†é‚“	"sau, slu"	"TEC_NM, CHL_NM"	8	32
+é‡‘è‘¡é™†é‚“	"sau, slu"	"GEN_NM, TCY_NM, MNO_NM, MIN_NM"	4	16
+é‡‘è‘¡é™†é‚“	"sau, slu"	AMK_NM	16	64
+é‡‘è‘¡é™†é‚“	"sau, slu"	"CLA_NM, AZM_NM, CLR_NM"	2	8
+é‡‘è‘¡é™†é‚“	"sau, slu"	ERY_NM	0.5	8
+é‡‘è‘¡é™†é‚“	"sau, slu"	"LVX_NM, CIP_NM, RIF_NM"	1	4
+é‡‘è‘¡é™†é‚“	"sau, slu"	MFX_NM	0.5	2
+é‡‘è‘¡é™†é‚“	"sau, slu"	CLI_NM	0.5	4
 CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl, shl, sho, shy, sit, skl, slc, sle, sms, snb, sps, spv, ssb, ssf, ssi, ssr, sta, stc, stt, sul, sur, swa, sxy, CoNS"	PEN_NM	0.125	0.25
 CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl, shl, sho, shy, sit, skl, slc, sle, sms, snb, sps, spv, ssb, ssf, ssi, ssr, sta, stc, stt, sul, sur, swa, sxy, CoNS"	OXA_NM	0.25	0.5
 CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl, shl, sho, shy, sit, skl, slc, sle, sms, snb, sps, spv, ssb, ssf, ssi, ssr, sta, stc, stt, sul, sur, swa, sxy, CoNS"	VAN_NM	4	32
@@ -55,47 +55,47 @@ CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl,
 CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl, shl, sho, shy, sit, skl, slc, sle, sms, snb, sps, spv, ssb, ssf, ssi, ssr, sta, stc, stt, sul, sur, swa, sxy, CoNS"	SXT_NM	2	4
 CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl, shl, sho, shy, sit, skl, slc, sle, sms, snb, sps, spv, ssb, ssf, ssi, ssr, sta, stc, stt, sul, sur, swa, sxy, CoNS"	CLI_NM	0.5	4
 CoNS	"sep, sae, sai, sap, sc+, sca, scg, scl, scn, scp, scu, sde, seq, sfe, sgl, shl, sho, shy, sit, skl, slc, sle, sms, snb, sps, spv, ssb, ssf, ssi, ssr, sta, stc, stt, sul, sur, swa, sxy, CoNS"	LNZ_NM	4	8
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"AMP_NM, SAM_NM, FOX_NM, CHL_NM"	8	32
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"TZP_NM, PIP_NM"	16	128
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"CZO_NM, LVX_NM, PB_NM, TGC_NM, TGC_NE"	2	8
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	FEP_NM	2	16
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"CRO_NM, CTX_NM, CTC_NM, IPM_NM, MEM_NM, CIP_NM"	1	4
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"CAZ_NM, CCV_NM, ATM_NM, GEN_NM, TOB_NM, TCY_NM, MNO_NM, MIN_NM"	4	16
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	CSL_NM	16	64
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	ETP_NM	0.5	2
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	AMK_NM	16	64
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	SXT_NM	2	4
-³¦¸Ë¾ú¿Æ	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	FOS_NM	64	256
-Í­ÂÌ	pae	"TZP_NM, PIP_NM"	16	128
-Í­ÂÌ	pae	"CAZ_NM, FEP_NM, ATM_NM"	8	32
-Í­ÂÌ	pae	"IPM_NM, MEM_NM, PB_NM, LVX_NM, COL_NM, POL_NM"	2	8
-Í­ÂÌ	pae	"GEN_NM, TOB_NM"	4	16
-Í­ÂÌ	pae	AMK_NM	16	64
-Í­ÂÌ	pae	CIP_NM	1	4
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"TZP_NM, PIP_NM"	16	128
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"CAZ_NM, FEP_NM, SAM_NM"	8	32
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"CTX_NM, CRO_NM"	8	64
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"IPM_NM, MEM_NM"	2	8
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"COL_NM, PB_NM, POL_NM"	2	4
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"GEN_NM, TOB_NM"	4	16
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	AMK_NM	16	64
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"TCY_NM, MNO_NM, MIN_NM"	4	16
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	CIP_NM	1	4
-²»¶¯	"aba, aju, ajo, alw, aca, ac-"	"LVX_NM, SXT_NM, TGC_NM, TGC_NE"	2	8
-Ñó´Ğ	"pce, buk"	"CAZ_NM, CHL_NM"	8	32
-Ñó´Ğ	"pce, buk"	"MEM_NM, MNO_NM, MIN_NM"	4	16
-Ñó´Ğ	"pce, buk"	LVX_NM	2	8
-Ñó´Ğ	"pce, buk"	SXT_NM	2	4
-ÊÈÂóÑ¿	pma	"CAZ_NM, CHL_NM"	8	32
-ÊÈÂóÑ¿	pma	SXT_NM	2	4
-ÊÈÂóÑ¿	pma	LVX_NM	2	8
-ÊÈÂóÑ¿	pma	"MNO_NM, MIN_NM"	4	16
-ÊÈÂóÑ¿	pma	SXT_NM	2	4
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"PEN_NM, AMP_NM"	8	16
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	VAN_NM	4	32
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"TEC_NM, CHL_NM"	8	32
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	DAP_NM	4	0
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	ERY_NM	0.5	8
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"TCY_NM, MNO_NM, MIN_NM"	4	16
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	CIP_NM	1	4
-³¦Çò¾ú	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"LVX_NM, LNZ_NM"	2	8
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"AMP_NM, SAM_NM, FOX_NM, CHL_NM"	8	32
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"TZP_NM, PIP_NM"	16	128
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"CZO_NM, LVX_NM, PB_NM, TGC_NM, TGC_NE"	2	8
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	FEP_NM	2	16
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"CRO_NM, CTX_NM, CTC_NM, IPM_NM, MEM_NM, CIP_NM"	1	4
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	"CAZ_NM, CCV_NM, ATM_NM, GEN_NM, TOB_NM, TCY_NM, MNO_NM, MIN_NM"	4	16
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	CSL_NM	16	64
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	ETP_NM	0.5	2
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	AMK_NM	16	64
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	SXT_NM	2	4
+è‚ æ†èŒç§‘	"eco, kpn, ecl, eae, sma, kox, pmi, cfr, mmo, cdi, pst, kor, pvu, hal, slq, koz, cbk, ppe, pre, sfo"	FOS_NM	64	256
+é“œç»¿	pae	"TZP_NM, PIP_NM"	16	128
+é“œç»¿	pae	"CAZ_NM, FEP_NM, ATM_NM"	8	32
+é“œç»¿	pae	"IPM_NM, MEM_NM, PB_NM, LVX_NM, COL_NM, POL_NM"	2	8
+é“œç»¿	pae	"GEN_NM, TOB_NM"	4	16
+é“œç»¿	pae	AMK_NM	16	64
+é“œç»¿	pae	CIP_NM	1	4
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"TZP_NM, PIP_NM"	16	128
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"CAZ_NM, FEP_NM, SAM_NM"	8	32
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"CTX_NM, CRO_NM"	8	64
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"IPM_NM, MEM_NM"	2	8
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"COL_NM, PB_NM, POL_NM"	2	4
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"GEN_NM, TOB_NM"	4	16
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	AMK_NM	16	64
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"TCY_NM, MNO_NM, MIN_NM"	4	16
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	CIP_NM	1	4
+ä¸åŠ¨	"aba, aju, ajo, alw, aca, ac-"	"LVX_NM, SXT_NM, TGC_NM, TGC_NE"	2	8
+æ´‹è‘±	"pce, buk"	"CAZ_NM, CHL_NM"	8	32
+æ´‹è‘±	"pce, buk"	"MEM_NM, MNO_NM, MIN_NM"	4	16
+æ´‹è‘±	"pce, buk"	LVX_NM	2	8
+æ´‹è‘±	"pce, buk"	SXT_NM	2	4
+å—œéº¦èŠ½	pma	"CAZ_NM, CHL_NM"	8	32
+å—œéº¦èŠ½	pma	SXT_NM	2	4
+å—œéº¦èŠ½	pma	LVX_NM	2	8
+å—œéº¦èŠ½	pma	"MNO_NM, MIN_NM"	4	16
+å—œéº¦èŠ½	pma	SXT_NM	2	4
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"PEN_NM, AMP_NM"	8	16
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	VAN_NM	4	32
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"TEC_NM, CHL_NM"	8	32
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	DAP_NM	4	0
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	ERY_NM	0.5	8
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"TCY_NM, MNO_NM, MIN_NM"	4	16
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	CIP_NM	1	4
+è‚ çƒèŒ	"ean, eav, eca, ecc, ecb, eds, edu, efa, efm, efv, ega, egv, enh, ema, emn, epa, evi, eps, era, esh, ese, eso, ent, evi, esu"	"LVX_NM, LNZ_NM"	2	8
