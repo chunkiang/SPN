@@ -34,6 +34,8 @@ CPR_NM,Cefprozil,头孢丙烯,,β-lactams_Cephalosporins,β-lactams_Cephalospori
 CPT_NM,Ceftaroline,头孢洛林,,β-lactams_Cephalosporins,β-lactams_Cephalosporins
 CRB_NM,Carbenicillin,羧苄西林,,β-lactams_Penicillins,β-lactams_Penicillins
 CRO_NM,Ceftriaxone,头孢曲松,TX,β-lactams_Cephalosporins,β-lactams_Cephalosporins
+CRO_meningitis_NM,Ceftriaxone meningitis,头孢曲松 脑膜炎,TX,β-lactams_Cephalosporins,β-lactams_Cephalosporins
+CRO_MENINGITIS_NM,Ceftriaxone meningitis,头孢曲松 脑膜炎,TX,β-lactams_Cephalosporins,β-lactams_Cephalosporins
 CTB_NM,Ceftibuten,头孢布烯,,β-lactams_Cephalosporins,β-lactams_Cephalosporins
 CTC_NM,Cefotaxime/Clavulanic acid,头孢噻肟/克拉维酸,,β-lactams_Cephalosporins,β-lactams_Cephalosporins
 CTT_NM,Cefotetan,头孢替坦,CN,β-lactams_Cephalosporins,β-lactams_Cephalosporins
@@ -101,8 +103,8 @@ ORB_NM,Orbifloxacin,,,Topoisomerase inhibitors_Fluoroquinolones,Topoisomerase in
 ORI_NM,Oritavancin,,,Glycopeptide,Glycopeptide_Glycopeptide
 ORS_NM,Ormetroprim/Sulfamethoxazole,,,Sulfonamides,Sulfonamides_Sulfonamides
 OXA_NM,Oxacillin,苯唑西林,OX,β-lactams_Penicillins,β-lactams_Penicillins
-OXO_NM,Oxolinic acid,奥索利酸,,Topoisomerase inhibitors_1st g,Topoisomerase inhibitors_1st g
-PEN_NM,Penicillin G,青霉素G,,β-lactams_Penicillins,β-lactams_Penicillins
+OXO_NM,Oxolinic_acid,奥索利酸,,Topoisomerase inhibitors_1st g,Topoisomerase inhibitors_1st g
+PEN_NM,Penicillin V oral,青霉素V口服,,β-lactams_Penicillins,β-lactams_Penicillins
 PEN_MENINGITIS_NM,Penicillin G meningitis,青霉素G脑膜炎,,β-lactams_Penicillins,β-lactams_Penicillins
 PEN_meningitis_NM,Penicillin G meningitis,青霉素G脑膜炎,,β-lactams_Penicillins,β-lactams_Penicillins
 PEN_NONMENINGITIS_NM,Penicillin G nonmeningitis,青霉素G非脑膜炎,,β-lactams_Penicillins,β-lactams_Penicillins
