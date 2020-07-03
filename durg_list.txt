@@ -1,0 +1,149 @@
+drug_code	eng_drug	chn_drug	etest_code	drug_group2	drug_group
+AMC_NM	Amoxicillin/Clavulanic acid	阿莫西林/克拉维酸	XL	β-lactams_Penicillins	β-lactams_Penicillins
+AMK_NM	Amikacin	阿米卡星	AK	Aminoglycosides	Aminoglycosides_Aminoglycosides
+AMP_NM	Ampicillin	氨苄西林		β-lactams_Penicillins	β-lactams_Penicillins
+AMX_NM	Amoxicillin	阿莫西林	AC	β-lactams_Penicillins	β-lactams_Penicillins
+APR_NM	Apramycin	安普霉素		Aminoglycosides	Aminoglycosides_Aminoglycosides
+ATM_NM	Aztreonam	氨曲南	AT	β-lactams_Monobactams	β-lactams_Monobactams
+AZL_NM	Azlocillin	阿洛西林		β-lactams_Penicillins	β-lactams_Penicillins
+AZM_NM	Azithromycin	阿奇霉素	AZ	MLS_Macrolides	MLS_Macrolides
+BAC_NM	Bacitracin zinc	杆菌肽	BA		
+BPR_NM	Ceftobiprole			β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CAT_NM	Cefetamet	头孢他美		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CAZ_NM	Ceftazidime	头孢他啶	TZ	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CCV_NM	Ceftazidime/Clavulanic acid	头孢他啶/克拉维酸		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CLC_NM	Ceftazidime/Clavulanic acid	头孢他啶/克拉维酸		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CDR_NM	Cefdinir	头孢地尼		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CEC_NM	Cefaclor	头孢克洛	CF	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CEP_NM	Cephalothin	头孢噻吩	CE	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CFM_NM	Cefixime	头孢克肟	X	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CFP_NM	Cefoperazone	头孢哌酮		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CHL_NM	Chloramphenicol	氯霉素	CL	Amphenicols	Amphenicols_Amphenicols
+CID_NM	Cefonicid	头孢尼西		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CIN_NM	Cinoxacin	西诺沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+CIP_NM	Ciprofloxacin	环丙沙星	CL	Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+CLI_NM	Clindamycin	克林霉素	CM	MLS_Lincosamides	MLS_Lincosamides
+CLR_NM	Clarithromycin	克拉霉素	CH	MLS_Macrolides	MLS_Macrolides
+CLA_NM	Clarithromycin	克拉霉素	CH	MLS_Macrolides	MLS_Macrolides
+CLX_NM	Clinafloxacin	克林沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+CMZ_NM	Cefmetazole	头孢美唑		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+COL_NM	Colistin	粘菌素	CO	Other_polymyxins	Other_polymyxins
+PB_NM	Colistin	粘菌素		Other_polymyxins	Other_polymyxins
+CPD_NM	Cefpodoxime	头孢泊肟	PX	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CPR_NM	Cefprozil	头孢丙烯		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CPT_NM	Ceftaroline	头孢洛林		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CRB_NM	Carbenicillin	羧苄西林		β-lactams_Penicillins	β-lactams_Penicillins
+CRO_NM	Ceftriaxone	头孢曲松	TX	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CRO_meningitis_NM	Ceftriaxone meningitis	头孢曲松 脑膜炎	TX	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CRO_MENINGITIS_NM	Ceftriaxone meningitis	头孢曲松 脑膜炎	TX	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CTB_NM	Ceftibuten	头孢布烯		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CTC_NM	Cefotaxime/Clavulanic acid	头孢噻肟/克拉维酸		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CTT_NM	Cefotetan	头孢替坦	CN	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CTX_NM	Cefotaxime	头孢噻肟	CT	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CXA_NM	Cefuroxime axetil	头孢呋辛酯		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CXM_NM	Cefuroxime	头孢呋辛	XM	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CZO_NM	Cefazolin	头孢唑啉		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+CZX_NM	Ceftizoxime	头孢唑肟		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+DAL_NM	Dalbavancin			Glycopeptide	Glycopeptide_Glycopeptide
+DAP_NM	Daptomycin	达托霉素	DPC	Other_depolarizing	Other_depolarizing
+DFX_NM	Danofloxacin	达氟沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+DIF_NM	Difloxacin	二氟沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+DIR_NM	Dirithromycin	地红霉素		MLS_Macrolides	MLS_Macrolides
+DIT_NM	Cefditoren	头孢托仑		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+DOR_NM	Doripenem	多尼培南		β-lactams_Carbapenems	β-lactams_Carbapenems
+DOX_NM	Doxycycline	多西环素		Tetracycline antibiotics_Tetracyclines	Tetracycline antibiotics_Tetracyclines
+ENR_NM	Enrofloxacin	恩氟沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+ENX_NM	Enoxacin	依诺沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+Eravacycline	Eravacycline			Tetracycline antibiotics_Fluorocyclines	Tetracycline antibiotics_Fluorocyclines
+ERY_NM	Erythromycin	红霉素	EM	MLS_Macrolides	MLS_Macrolides
+ETP_NM	Ertapenem	厄他培南	ETP	β-lactams_Carbapenems	β-lactams_Carbapenems
+FAR_NM	Faropenem	法罗培南		β-lactams_Carbapenems	β-lactams_Carbapenems
+FCT_NM	5-Fluorocytosine	5-氟胞嘧啶			
+FEP_NM	Cefepime	头孢吡肟	PM	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+FLE_NM	Fleroxacin	氟罗沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+FLR_NM	Florfenicol	氟苯尼考		Amphenicols	Amphenicols_Amphenicols
+FLU_NM	Fluconazole	氟康唑			
+FOS_NM	Fosfomycin	磷霉素	FM	Intracellular	Intracellular_Intracellular
+FOX_NM	Cefoxitin	头孢西丁	FX	β-lactams_Cephalosporins	β-lactams_Cephalosporins
+GAT_NM	Gatifloxacin	加替沙星	GA	Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+GEH_NM	Gentamicin-High	高浓度庆大霉素			
+GEM_NM	Gemifloxacin	吉米沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+GEN_NM	Gentamicin	庆大霉素	GM	Aminoglycosides	Aminoglycosides_Aminoglycosides
+GRX_NM	Grepafloxacin	格帕沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+ICL_NM	Iclaprim				
+IPM_NM	Imipenem	亚胺培南	IP	β-lactams_Carbapenems	β-lactams_Carbapenems
+ITR_NM	Itraconazole	伊曲康唑			
+KAH_NM	Kanamycin-High	高浓度卡那霉素		Aminoglycosides	Aminoglycosides_Aminoglycosides
+KAN_NM	Kanamycin	卡那霉素	KM	Aminoglycosides	Aminoglycosides_Aminoglycosides
+LFE_NM	Linoprist-flopristin				
+LNZ_NM	Linezolid	利奈唑胺	LZ	Oxazolidinone	Oxazolidinone_Oxazolidinone
+LOM_NM	Lomefloxacin	洛美沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+LOR_NM	Loracarbef	氯碳头孢		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+LVX_NM	Levofloxacin	左旋氧氟沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+MAN_NM	Cefamandole	头孢孟多		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+MAR_NM	Marbofloxacin			Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+MEC_NM	Mecillinam (Amdinocillin)	美西林 (氮脒青霉素)		β-lactams_Penicillins	β-lactams_Penicillins
+MEM_NM	Meropenem	美洛培南	MP	β-lactams_Carbapenems	β-lactams_Carbapenems
+MET_NM	Methicillin	甲氧西林		β-lactams_Penicillins	β-lactams_Penicillins
+MEZ_NM	Mezlocillin	美洛西林		β-lactams_Penicillins	β-lactams_Penicillins
+MFX_NM	Moxifloxacin	莫西沙星	MX	Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+MNO_NM	Minocycline	米诺环素	MC	Tetracycline antibiotics_Tetracyclines	Tetracycline antibiotics_Tetracyclines
+MIN_NM	Minocycline	米诺环素	MC	Tetracycline antibiotics_Tetracyclines	Tetracycline antibiotics_Tetracyclines
+MOX_NM	Moxalactam (Latamoxef)	拉氧头孢		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+MUP_NM	Mupirocin	莫匹罗星	MU	Other	Other_Other
+NAF_NM	Nafcillin	萘夫西林		β-lactams_Penicillins	β-lactams_Penicillins
+NAL_NM	Nalidixic acid	萘啶酸	NA		
+NEO_NM	Neomycin	新霉素		Aminoglycosides	Aminoglycosides_Aminoglycosides
+NET_NM	Netilmicin	奈替米星	NC	Aminoglycosides	Aminoglycosides_Aminoglycosides
+NIT_NM	Nitrofurantoin	呋喃妥因	NI	Anaerobic DNA inhibitors	Anaerobic DNA inhibitors_Anaerobic DNA inhibitors
+NOR_NM	Norfloxacin	诺氟沙星	NX	Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+NOV_NM	Novobiocin	新生霉素		Topoisomerase inhibitors_Related	Topoisomerase inhibitors_Related
+OFX_NM	Ofloxacin	氧氟沙星	OF	Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+ORB_NM	Orbifloxacin			Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+ORI_NM	Oritavancin			Glycopeptide	Glycopeptide_Glycopeptide
+ORS_NM	Ormetroprim/Sulfamethoxazole			Sulfonamides	Sulfonamides_Sulfonamides
+OXA_NM	Oxacillin	苯唑西林	OX	β-lactams_Penicillins	β-lactams_Penicillins
+OXO_NM	Oxolinic_acid	奥索利酸		Topoisomerase inhibitors_1st g	Topoisomerase inhibitors_1st g
+PEN_NM	Penicillin V oral	青霉素V口服		β-lactams_Penicillins	β-lactams_Penicillins
+PEN_MENINGITIS_NM	Penicillin G meningitis	青霉素G脑膜炎		β-lactams_Penicillins	β-lactams_Penicillins
+PEN_meningitis_NM	Penicillin G meningitis	青霉素G脑膜炎		β-lactams_Penicillins	β-lactams_Penicillins
+PEN_NONMENINGITIS_NM	Penicillin G nonmeningitis	青霉素G非脑膜炎		β-lactams_Penicillins	β-lactams_Penicillins
+PEN_nonmeningitis_NM	Penicillin G nonmeningitis	青霉素G非脑膜炎		β-lactams_Penicillins	β-lactams_Penicillins
+PIP_NM	Piperacillin	哌拉西林	PP	β-lactams_Penicillins	β-lactams_Penicillins
+PNO_NM	Penicillin/Novobiocin	青霉素/新生霉素		β-lactams_Penicillins	β-lactams_Penicillins
+POL_NM	Polymixin B	多粘菌素B	PO	Other_polymyxins	Other_polymyxins
+PRL_NM	Pirlimycin	吡利霉素		MLS_Lincosamides	MLS_Lincosamides
+PRX_NM	Premafloxacin	沛马沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+QDA_NM	Quinupristin/Dalfopristin	奎奴普丁/达福普汀	QDA	MLS_Streptogramins	MLS_Streptogramins
+RIF_NM	Rifampicin	利福平	RI	Rifamycins	Rifamycins_Rifamycins
+SAM_NM	Ampicillin/Sulbactam	氨苄西林/舒巴坦		β-lactams_Penicillins	β-lactams_Penicillins
+SAR_NM	Sarafloxacin	沙氟沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+SLP_NM	Sulopenem			β-lactams_Carbapenems	β-lactams_Carbapenems
+SMX_NM	Sulfamethoxazole	磺胺甲二唑		Sulfonamides	Sulfonamides_Sulfonamides
+SOX_NM	Sulfisoxazole	磺胺二甲异噁唑		Sulfonamides	Sulfonamides_Sulfonamides
+SPT_NM	Spectinomycin	大观霉素	SC	Aminoglycosides	Aminoglycosides_Aminoglycosides
+SPX_NM	Sparfloxacin	司氟沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+SSS_NM	Sulfonamides	磺胺类		Sulfonamides	Sulfonamides_Sulfonamides
+STH_NM	Streptomycin-High	高浓度链霉素		Aminoglycosides	Aminoglycosides_Aminoglycosides
+STR_NM	Streptomycin	链霉素	SM	Aminoglycosides	Aminoglycosides_Aminoglycosides
+SXT_NM	Trimethoprim/Sulfamethoxazole	复方新诺明		Sulfonamides	Sulfonamides_Sulfonamides
+TCC_NM	Ticarcillin/Clavulanic acid	替卡西林/克拉维酸		β-lactams_Penicillins	β-lactams_Penicillins
+TCY_NM	Tetracycline	四环素		Tetracycline antibiotics_Tetracyclines	Tetracycline antibiotics_Tetracyclines
+TEC_NM	Teicoplanin	替考拉宁		Glycopeptide	Glycopeptide_Glycopeptide
+TGC_NM	Tigecycline	替加环素		Tetracycline antibiotics_Glycylcyclines	Tetracycline antibiotics_Glycylcyclines
+TIA_NM	Tiamulin	硫姆林		Pleuromutilins	Pleuromutilins_Pleuromutilins
+TIC_NM	Ticarcillin	替卡西林		β-lactams_Penicillins	β-lactams_Penicillins
+TIL_NM	Tilmicosin	替米考星			
+TIO_NM	Ceftiofur	头孢噻呋		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+TLT_NM	Telithromycin	泰利霉素		MLS_Ketolides	MLS_Ketolides
+TLV_NM	Telavancin			Glycopeptide	Glycopeptide_Glycopeptide
+TMP_NM	Trimethoprim	甲氧苄啶		Sulfonamides	Sulfonamides_Sulfonamides
+TMX_NM	Temafloxacin	替马沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+TOB_NM	Tobramycin	妥布霉素		Aminoglycosides	Aminoglycosides_Aminoglycosides
+TRO_NM	Trospectomycin	丙大观霉素		Aminoglycosides	Aminoglycosides_Aminoglycosides
+TVA_NM	Trovafloxacin	曲伐沙星		Topoisomerase inhibitors_Fluoroquinolones	Topoisomerase inhibitors_Fluoroquinolones
+TZP_NM	Piperacillin/Tazobactam	哌拉西林/他唑巴坦	PTC	β-lactams_Penicillins	β-lactams_Penicillins
+VAN_NM	Vancomycin	万古霉素		Glycopeptide	Glycopeptide_Glycopeptide
+VOR_NM	Voriconazole	伏立康唑			
+CSL_NM	Cefoperazone/Sulbactam	头孢哌酮/舒巴坦		β-lactams_Cephalosporins	β-lactams_Cephalosporins
+ERAVACYCLINE_NM	Eravacycline			Tetracycline antibiotics_Fluorocyclines	Tetracycline antibiotics_Fluorocyclines
