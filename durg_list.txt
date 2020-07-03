@@ -1,3 +1,13 @@
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 drug_code	eng_drug	chn_drug	etest_code	drug_group2	drug_group
 AMC_NM	Amoxicillin/Clavulanic acid	阿莫西林/克拉维酸	XL	β-lactams_Penicillins	β-lactams_Penicillins
 AMK_NM	Amikacin	阿米卡星	AK	Aminoglycosides	Aminoglycosides_Aminoglycosides
