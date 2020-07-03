@@ -1,3 +1,13 @@
+#   Author: Chunjiang Zhao
+#   Email:  chunkiang@163.com
+#   Description: This breakpoints table is based on M100-S27 documents
+#   You can add your own drug below. If there is no Resistance value, use '0' instead.
+#
+#
+#
+#
+#
+#
 class	org	drug	mic.s	mic.r
 肺链	spn	PEN_NM	0.064	2
 肺链	spn	"PEN_meningitis_NM, PEN_MENINGITIS_NM"	0.064	0.125
