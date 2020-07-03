@@ -1,4 +1,14 @@
-org_code	eng_org	chn_org	eng_abbr	comment	comment2
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+org_code	eng_org	chn_org	eng_abbr	comment
 aba	Acinetobacter baumannii	鲍曼不动杆菌	A.baumannii	
 ac-	Acinetobacter sp.	不动杆菌属	Acinetobacter sp.	
 aca	Acinetobacter calcoaceticus	醋酸钙不动杆菌	A.calcoaceticus	
